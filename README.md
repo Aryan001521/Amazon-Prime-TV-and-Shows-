@@ -199,7 +199,7 @@ jupyter notebook EDA_Movie_Recommendation.ipynb
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Aryan Sharma
 
 ---
 
